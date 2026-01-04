@@ -7,3 +7,6 @@ This project implements **3D Gaussian Splatting** for real-time, high-quality re
 - High-quality photorealistic rendering  
 - Efficient GPU-based splatting  
 - Mesh-free scene representation  
+
+[![Demo](https://github.com/user-attachments/assets/f991d4c0-b257-4d51-81d2-19d057746301)](https://github.com/user-attachments/assets/f991d4c0-b257-4d51-81d2-19d057746301)
+
